@@ -1,0 +1,12 @@
+[submodule "HobbyService"]
+	path = HobbyService
+	url = https://github.com/HobbyHub-Microservices/HobbyService.git
+[submodule "UserService"]
+	path = UserService
+	url = https://github.com/HobbyHub-Microservices/UserService.git
+[submodule "K8S"]
+	path = K8S
+	url = https://github.com/HobbyHub-Microservices/K8S.git
+[submodule "K6"]
+	path = K6
+	url = https://github.com/HobbyHub-Microservices/K6.git
